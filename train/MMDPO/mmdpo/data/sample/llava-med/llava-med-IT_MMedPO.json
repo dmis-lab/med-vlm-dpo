@@ -1,0 +1,28 @@
+[
+    {
+        "id": "16734899_F4",
+        "image": "images/16734899_F4.jpg",
+        "rejected_image": "roi_noised_images/16734899_F4.jpg",
+        "weighted_score": 0.6070594191551208,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What does the term \"cavitating lesion\" mean?"
+            },
+            {
+                "from": "gpt",
+                "value": "A cavitating lesion refers to an abnormal mass or growth within the lung tissue that has a cavity or hollow space inside it. This cavity can be formed due to the necrosis (death) of the tissue inside the lesion, leading to the breakdown and disintegration of the affected tissue. Cavitating lesions can be caused by various factors, such as infections (like tuberculosis or fungal infections), autoimmune diseases, or malignancies (cancer)."
+            }
+        ],
+        "rejected_conversations": [
+            {
+                "from": "human",
+                "value": "What does the term \"cavitating lesion\" mean?"
+            },
+            {
+                "from": "gpt",
+                "value": "A cavitating lesion refers to an abnormal mass or growth within the liver tissue that has a cavity or hollow space inside it. This cavity can be formed due to the liquefactive necrosis of the tissue inside the lesion, leading to the breakdown and disintegration of the affected tissue. Cavitating lesions can be caused by various factors, such as bacterial abscesses, parasitic infections, or benign tumors."
+            }
+        ]
+    }
+]

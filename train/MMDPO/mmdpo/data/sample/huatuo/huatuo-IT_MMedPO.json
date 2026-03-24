@@ -1,0 +1,28 @@
+[
+    {
+        "id": "pmc_142_0",
+        "image": "images/pmc_142_0.jpg",
+        "rejected_image": "roi_noised_images/pmc_142_0.jpg",
+        "weighted_score": 0.5974176526069641,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What anatomical structures are visible in the provided medical image?"
+            },
+            {
+                "from": "gpt",
+                "value": "The medical image shows the lower spine region, specifically the vertebral bodies and posterior elements of the lumbar spine. The key anatomical structures visible include the vertebral bodies, the pars interarticularis (or pars defects) at the L4 level, and the relationship between the L4 and L5 vertebrae, which demonstrates a grade 1 spondylolisthesis. The overall spinal anatomy and the identified pathological findings are clearly depicted in this radiographic image."
+            }
+        ],
+        "rejected_conversations": [
+            {
+                "from": "human",
+                "value": "What anatomical structures are visible in the provided medical image?"
+            },
+            {
+                "from": "gpt",
+                "value": "The medical image shows the upper spine region, specifically the cervical vertebrae and associated neural elements. The key anatomical structures visible include the vertebral bodies, the transverse process (or foramina transversaria) at the C5 level, and the relationship between the C5 and C6 vertebrae, which demonstrates a fusion anomaly. The overall spinal anatomy and the identified structural variations are clearly depicted in this radiographic image."
+            }
+        ]
+    }
+]

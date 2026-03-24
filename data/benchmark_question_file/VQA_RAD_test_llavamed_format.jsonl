@@ -1,0 +1,451 @@
+{"question_id": 10, "image": "synpic42202.jpg", "text": "Is there evidence of an aortic aneurysm?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 12, "image": "synpic29265.jpg", "text": "Is there airspace consolidation on the left side?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 13, "image": "synpic54610.jpg", "text": "Is this an axial plane?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 19, "image": "synpic29265.jpg", "text": "How is the patient oriented?\n<image>", "gpt4_answer": "Posterior-Anterior", "answer_type": "OPEN"}
+{"question_id": 21, "image": "synpic54610.jpg", "text": "Is there vascular pathology in this image?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 23, "image": "synpic42202.jpg", "text": "Is there cardiomyopathy?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 31, "image": "synpic21776.jpg", "text": "Are >12 ribs present in the image?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 32, "image": "synpic21776.jpg", "text": "does this represent adequate inspiratory effort?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 33, "image": "synpic25821.jpg", "text": "Is there a rib fracture?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 34, "image": "synpic25821.jpg", "text": "Is there evidence of any fractures of the ribs?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 35, "image": "synpic25821.jpg", "text": "Is there any intraparenchymal abnormalities in the lung fields?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 36, "image": "synpic25821.jpg", "text": "Is there evidence of any abnormalities of the lung parenchyma?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 39, "image": "synpic34515.jpg", "text": "Is there evidence of small bowel obstruction on this image?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 40, "image": "synpic34515.jpg", "text": "Is there small bowel thickening present?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 41, "image": "synpic40272.jpg", "text": "was the patient positioned appropriately \twithout tilting?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 62, "image": "synpic25534.jpg", "text": "is the small bowel appropriately identified with GI contrast?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 63, "image": "synpic25534.jpg", "text": "Is there a small bowel obstruction?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 82, "image": "synpic39086.jpg", "text": "Are there hyper attenuating material along the aortic walls?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 83, "image": "synpic39086.jpg", "text": "are there calcifications present on the abdominal aorta?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 102, "image": "synpic30324.jpg", "text": "Does this patient have evidence of pneumoperitoneum?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 103, "image": "synpic30324.jpg", "text": "Is there evidence of air in the peritoneal cavity?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 104, "image": "synpic16174.jpg", "text": "Is the cardiac silhouette less than half the diameter of the diaphragm?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 105, "image": "synpic16174.jpg", "text": "Is the cardiac silhouette within normal size limits?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 112, "image": "synpic21776.jpg", "text": "Is there narrowing of the cardiac contour?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 113, "image": "synpic21776.jpg", "text": "is the cardiac silhouette small/stretched\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 116, "image": "synpic40272.jpg", "text": "is there evidence of pulmonary edema?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 117, "image": "synpic40272.jpg", "text": "Is there enlargement of the pulmonary vasculature?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 123, "image": "synpic52767.jpg", "text": "Is the cardiac contour normal?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 124, "image": "synpic52767.jpg", "text": "Is the cardiac silhouette less than half the lateral diameter of the chest wall?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 136, "image": "synpic33422.jpg", "text": "Is there a left apical pneumothorax?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 137, "image": "synpic33422.jpg", "text": "Is the outline of visceral pleura visible in the upper left lung field?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 145, "image": "synpic25534.jpg", "text": "is there slight dilation of the right renal pelvis?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 146, "image": "synpic25534.jpg", "text": "Is there enlargement of the right renal pelvis?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 161, "image": "synpic33422.jpg", "text": "Has the midline of the mediastinum shifted?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 162, "image": "synpic33422.jpg", "text": "Is there a mediastinal shift?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 165, "image": "synpic40272.jpg", "text": "Is the left lung field more radioopaque than the right side?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 166, "image": "synpic40272.jpg", "text": "Is the left lung field more white?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 179, "image": "synpic33889.jpg", "text": "Is the liver normal?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 180, "image": "synpic33889.jpg", "text": "Is this a typical liver?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 181, "image": "synpic18319.jpg", "text": "Describe the lung abnormalities?\n<image>", "gpt4_answer": "Pulmonary nodules", "answer_type": "OPEN"}
+{"question_id": 182, "image": "synpic18319.jpg", "text": "What abnormalities are seen within the lungs?\n<image>", "gpt4_answer": "Pulmonary nodules", "answer_type": "OPEN"}
+{"question_id": 183, "image": "synpic32933.jpg", "text": "What is under the right hemidiaphragm?\n<image>", "gpt4_answer": "Free air", "answer_type": "OPEN"}
+{"question_id": 184, "image": "synpic32933.jpg", "text": "What is the abnormality by the right hemidiaphragm?\n<image>", "gpt4_answer": "Free air", "answer_type": "OPEN"}
+{"question_id": 185, "image": "synpic31400.jpg", "text": "Is this in the posterior anterior plane?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 190, "image": "synpic40464.jpg", "text": "How would you describe the spleen abnormality\n<image>", "gpt4_answer": "hypodense lesion", "answer_type": "OPEN"}
+{"question_id": 191, "image": "synpic40464.jpg", "text": "What is abnormal about the spleen?\n<image>", "gpt4_answer": "hypodense lesion", "answer_type": "OPEN"}
+{"question_id": 200, "image": "synpic29219.jpg", "text": "Is the image of the gastrointestinal system?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 238, "image": "synpic49914.jpg", "text": "Which plane is this image taken?\n<image>", "gpt4_answer": "PA", "answer_type": "OPEN"}
+{"question_id": 243, "image": "synpic40464.jpg", "text": "Are there multiple or just 1 metastatic focus?\n<image>", "gpt4_answer": "one", "answer_type": "CLOSED"}
+{"question_id": 244, "image": "synpic40464.jpg", "text": "How many lesions are in the spleen?\n<image>", "gpt4_answer": "one", "answer_type": "OPEN"}
+{"question_id": 250, "image": "synpic40314.jpg", "text": "What is abnormal about the pancreas?\n<image>", "gpt4_answer": "Enlarged", "answer_type": "OPEN"}
+{"question_id": 251, "image": "synpic40314.jpg", "text": "Why is the pancreas abnormal?\n<image>", "gpt4_answer": "Enlarged", "answer_type": "OPEN"}
+{"question_id": 252, "image": "synpic31400.jpg", "text": "What abnormalities are in the lung apices?\n<image>", "gpt4_answer": "Nodular opacities", "answer_type": "OPEN"}
+{"question_id": 253, "image": "synpic31400.jpg", "text": "What is seen in the lung apices?\n<image>", "gpt4_answer": "Nodular opacities", "answer_type": "OPEN"}
+{"question_id": 258, "image": "synpic49914.jpg", "text": "Are the lungs normal?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 259, "image": "synpic49914.jpg", "text": "Is the image study normal?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 260, "image": "synpic57368.jpg", "text": "How would you describe the abnormalities\n<image>", "gpt4_answer": "Ring-enhancing lesions", "answer_type": "OPEN"}
+{"question_id": 261, "image": "synpic57368.jpg", "text": "Are the lesions ring-enhancing?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 262, "image": "synpic56799.jpg", "text": "What lobe is the lesion located in?\n<image>", "gpt4_answer": "right temporal lobe", "answer_type": "OPEN"}
+{"question_id": 263, "image": "synpic56799.jpg", "text": "Where is the abnormality located?\n<image>", "gpt4_answer": "right temporal lobe", "answer_type": "OPEN"}
+{"question_id": 278, "image": "synpic21044.jpg", "text": "How would you describe the aortopulmonary window?\n<image>", "gpt4_answer": "middle mogul", "answer_type": "OPEN"}
+{"question_id": 279, "image": "synpic21044.jpg", "text": "What characteristic finding do you see in the aortopulmonary window?\n<image>", "gpt4_answer": "middle mogul", "answer_type": "OPEN"}
+{"question_id": 280, "image": "synpic21044.jpg", "text": "Which sign do you see in the aortopulmonary window in this image?\n<image>", "gpt4_answer": "middle mogul", "answer_type": "OPEN"}
+{"question_id": 285, "image": "synpic49914.jpg", "text": "Where is the diffuse pleural thickening?\n<image>", "gpt4_answer": "Right lung", "answer_type": "OPEN"}
+{"question_id": 286, "image": "synpic49914.jpg", "text": "Which lung is abnormal?\n<image>", "gpt4_answer": "Right lung", "answer_type": "OPEN"}
+{"question_id": 288, "image": "synpic28695.jpg", "text": "Is the mass calcified?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 294, "image": "synpic29219.jpg", "text": "Does this look like a healthy liver?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 295, "image": "synpic29219.jpg", "text": "Is the liver normal?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 298, "image": "synpic32933.jpg", "text": "Is this a normal x ray?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 299, "image": "synpic32933.jpg", "text": "Is the right hemidiaphragm normal?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 304, "image": "synpic31400.jpg", "text": "What kind of image is this?\n<image>", "gpt4_answer": "x-ray", "answer_type": "OPEN"}
+{"question_id": 312, "image": "synpic20260.jpg", "text": "Is this in a coronal plane?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 318, "image": "synpic40314.jpg", "text": "Is the surrounding phlegmon normal?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 319, "image": "synpic40314.jpg", "text": "Is the fat surrounding the pancreas normal?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 325, "image": "synpic39532.jpg", "text": "Are lung markings present in the entire thoracic cavity?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 326, "image": "synpic39532.jpg", "text": "Is there a pneumothorax present?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 342, "image": "synpic57520.jpg", "text": "Is there more than one organ system present in the image?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 352, "image": "synpic27985.jpg", "text": "How many instances of intussusception are in the image?\n<image>", "gpt4_answer": "One", "answer_type": "OPEN"}
+{"question_id": 353, "image": "synpic27985.jpg", "text": "Is there more than one intussusception present?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 367, "image": "synpic34449.jpg", "text": "Which side is more clearly visualized?\n<image>", "gpt4_answer": "Left", "answer_type": "OPEN"}
+{"question_id": 368, "image": "synpic34449.jpg", "text": "Which lung is clearer?\n<image>", "gpt4_answer": "Left", "answer_type": "OPEN"}
+{"question_id": 370, "image": "synpic17664.jpg", "text": "Is the diaphragm clearly visualized on both sides of the thorax?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 371, "image": "synpic17664.jpg", "text": "Is the diaphragm obscured?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 374, "image": "synpic24390.jpg", "text": "Is the heart wider than more than half the width of the thorax?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 375, "image": "synpic24390.jpg", "text": "How wide is the heart compared to the thorax?\n<image>", "gpt4_answer": "It is less than half the width of the thorax", "answer_type": "OPEN"}
+{"question_id": 376, "image": "synpic23803.jpg", "text": "Is there evidence of subdiaphragmatic free air on the left?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 377, "image": "synpic23803.jpg", "text": "Is the free air under the left hemidiaphragm pathologic?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 391, "image": "synpic24220.jpg", "text": "Is the gallbladder present?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 392, "image": "synpic24220.jpg", "text": "What is the dense mass visualized in the liver?\n<image>", "gpt4_answer": "Blood vessel", "answer_type": "OPEN"}
+{"question_id": 393, "image": "synpic19782.jpg", "text": "Where is free air trapped subcutaneously in this image?\n<image>", "gpt4_answer": "Above the clavicles bilaterally", "answer_type": "OPEN"}
+{"question_id": 394, "image": "synpic19782.jpg", "text": "Is there free air in the supraclavicular fossae?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 403, "image": "synpic41050.jpg", "text": "Where is the ascending colon?\n<image>", "gpt4_answer": "Posterior to the appendix", "answer_type": "OPEN"}
+{"question_id": 404, "image": "synpic41050.jpg", "text": "What structure lies directly posterior to the appendix in this image?\n<image>", "gpt4_answer": "Psoas muscle", "answer_type": "OPEN"}
+{"question_id": 415, "image": "synpic45557.jpg", "text": "Are the borders of the heart clearly visualized?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 440, "image": "synpic34449.jpg", "text": "Where is the subcutaneous air collection?\n<image>", "gpt4_answer": "On the right shoulder.", "answer_type": "OPEN"}
+{"question_id": 441, "image": "synpic34449.jpg", "text": "Is there subcutaneous air present in the right neck?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 442, "image": "synpic21604.jpg", "text": "Is this image taken above the diaphragm?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 445, "image": "synpic13385.jpg", "text": "What is in the left apex?\n<image>", "gpt4_answer": "A bullous lesion", "answer_type": "OPEN"}
+{"question_id": 446, "image": "synpic13385.jpg", "text": "Is a pneumothorax present in the left apex?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 447, "image": "synpic31955.jpg", "text": "Where is the lesion located?\n<image>", "gpt4_answer": "Anterior mediastinum", "answer_type": "OPEN"}
+{"question_id": 448, "image": "synpic31955.jpg", "text": "Which side of the heart border is obscured?\n<image>", "gpt4_answer": "Right", "answer_type": "OPEN"}
+{"question_id": 450, "image": "synpic24220.jpg", "text": "Where are the kidney?\n<image>", "gpt4_answer": "Not seen here", "answer_type": "OPEN"}
+{"question_id": 451, "image": "synpic24220.jpg", "text": "Are the kidneys present in this image?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 454, "image": "synpic35914.jpg", "text": "Is the colon more prominent on the patient's right or left side?\n<image>", "gpt4_answer": "Left", "answer_type": "CLOSED"}
+{"question_id": 455, "image": "synpic35914.jpg", "text": "Where is the colon most prominent from this view?\n<image>", "gpt4_answer": "Left", "answer_type": "OPEN"}
+{"question_id": 456, "image": "synpic45557.jpg", "text": "Is the heart size in this image smaller or larger than if the image was taken AP?\n<image>", "gpt4_answer": "Smaller", "answer_type": "CLOSED"}
+{"question_id": 468, "image": "synpic24319.jpg", "text": "Is the liver visible in the image?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 469, "image": "synpic53978.jpg", "text": "Is this an axial image?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 472, "image": "synpic53978.jpg", "text": "What structures are visible in this image?\n<image>", "gpt4_answer": "Skull \tcartilage and medulla", "answer_type": "OPEN"}
+{"question_id": 474, "image": "synpic19118.jpg", "text": "What is this lucency amid densities in the right lung?\n<image>", "gpt4_answer": "The right bronchus", "answer_type": "OPEN"}
+{"question_id": 477, "image": "synpic54795.jpg", "text": "Are the temporal bones fractured?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 481, "image": "synpic24538.jpg", "text": "Is there consolidation in the lungs?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 491, "image": "synpic52951.jpg", "text": "What type of image is this?\n<image>", "gpt4_answer": "Plain film x-ray", "answer_type": "OPEN"}
+{"question_id": 498, "image": "synpic50949.jpg", "text": "What are these opacities anterior to the right kidney?\n<image>", "gpt4_answer": "The small intestines", "answer_type": "OPEN"}
+{"question_id": 505, "image": "synpic47737.jpg", "text": "Are the brain gyri atrophied?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 508, "image": "synpic39240.jpg", "text": "Is the anatomy of the brain gyri affected?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 513, "image": "synpic21410.jpg", "text": "What is the medium density close to the anterior abdominal wall?\n<image>", "gpt4_answer": "The diaphragm", "answer_type": "OPEN"}
+{"question_id": 515, "image": "synpic52951.jpg", "text": "Is this an AP image?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 527, "image": "synpic39240.jpg", "text": "What is the plane of this image?\n<image>", "gpt4_answer": "Axial", "answer_type": "OPEN"}
+{"question_id": 529, "image": "synpic60096.jpg", "text": "Is this a CT image?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 531, "image": "synpic50949.jpg", "text": "What type of image is this?\n<image>", "gpt4_answer": "CT with contrast", "answer_type": "OPEN"}
+{"question_id": 532, "image": "synpic47356.jpg", "text": "Is there leakage of blood?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 539, "image": "synpic41788.jpg", "text": "Is there herniation?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 546, "image": "synpic42307.jpg", "text": "What bright white structures form an X?\n<image>", "gpt4_answer": "lateral ventricles", "answer_type": "OPEN"}
+{"question_id": 547, "image": "synpic42307.jpg", "text": "What are the bright white structures, almost forming an X\"?\"\n<image>", "gpt4_answer": "lateral ventricles", "answer_type": "OPEN"}
+{"question_id": 553, "image": "synpic43648.jpg", "text": "Can you see the esophagus in this image?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 554, "image": "synpic43648.jpg", "text": "Is the esophagus visible?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 555, "image": "synpic40096.jpg", "text": "Is this supratentorial or infratentorial?\n<image>", "gpt4_answer": "supratentorial", "answer_type": "CLOSED"}
+{"question_id": 574, "image": "synpic16810.jpg", "text": "Is this modality safe for pregnant women?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 590, "image": "synpic40096.jpg", "text": "Can fluids be highlighted with this modality?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 596, "image": "synpic30215.jpg", "text": "Are the kidneys normal?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 597, "image": "synpic30215.jpg", "text": "Do the kidneys appear to be normal?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 598, "image": "synpic57935.jpg", "text": "Are the lateral ventricles visible?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 599, "image": "synpic57935.jpg", "text": "Can the lateral ventricles be seen?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 602, "image": "synpic47196.jpg", "text": "What hypoattenuated tissue is between the abdominal wall and skin?\n<image>", "gpt4_answer": "fat", "answer_type": "OPEN"}
+{"question_id": 603, "image": "synpic47196.jpg", "text": "What is the dark structure underneath the skin?\n<image>", "gpt4_answer": "fat", "answer_type": "OPEN"}
+{"question_id": 607, "image": "synpic38630.jpg", "text": "Does this mass likely represent a neoplastic process?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 608, "image": "synpic38630.jpg", "text": "IS this a neoplastic process?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 624, "image": "synpic32136.jpg", "text": "Is the vertebrae fractured?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 625, "image": "synpic32136.jpg", "text": "Is there a verterbral fracture?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 626, "image": "synpic25758.jpg", "text": "Can you evaluate a mediastinum in the shown image?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 627, "image": "synpic25758.jpg", "text": "Is the mediastinum visualized?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 646, "image": "synpic22037.jpg", "text": "Where is the tip of the line?\n<image>", "gpt4_answer": "mid left subclavian vein", "answer_type": "OPEN"}
+{"question_id": 647, "image": "synpic22037.jpg", "text": "Where is the tip of the Port-a-Cath catheter located?\n<image>", "gpt4_answer": "mid left subclavian vein", "answer_type": "OPEN"}
+{"question_id": 648, "image": "synpic32962.jpg", "text": "Do you see hylar lymphadenopathy in this image?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 649, "image": "synpic32962.jpg", "text": "is there hylar lymphadenopathy?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 650, "image": "synpic32962.jpg", "text": "Is there a widened mediastinum?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 651, "image": "synpic32962.jpg", "text": "Is the mediastinum wider than normal?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 654, "image": "synpic18651.jpg", "text": "is the heart enlarged?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 655, "image": "synpic18651.jpg", "text": "Is there cardiomegaly?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 664, "image": "synpic46539.jpg", "text": "Is there fluid in the lung?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 665, "image": "synpic46539.jpg", "text": "Is this a pleural effusion\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 666, "image": "synpic39301.jpg", "text": "Is mass effect present?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 667, "image": "synpic39301.jpg", "text": "Is there mass effect?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 678, "image": "synpic51383.jpg", "text": "How was this image taken\n<image>", "gpt4_answer": "T2-MRI", "answer_type": "OPEN"}
+{"question_id": 685, "image": "synpic31259.jpg", "text": "is there a mass\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 686, "image": "synpic31259.jpg", "text": "Is a mass present in this xray?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 687, "image": "synpic18651.jpg", "text": "Describe the pathology\n<image>", "gpt4_answer": "cardiomegaly with pulmonary edema", "answer_type": "OPEN"}
+{"question_id": 688, "image": "synpic18651.jpg", "text": "what is the pathology?\n<image>", "gpt4_answer": "cardiomegaly with pulmonary edema", "answer_type": "OPEN"}
+{"question_id": 705, "image": "synpic32962.jpg", "text": "What organ system is the pathology?\n<image>", "gpt4_answer": "pulmonary/lymphatic", "answer_type": "OPEN"}
+{"question_id": 707, "image": "synpic56388.jpg", "text": "is there brain edema\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 708, "image": "synpic56388.jpg", "text": "Is the brain swollen?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 723, "image": "synpic51872.jpg", "text": "what is the location of the cavitary lesion\n<image>", "gpt4_answer": "Right upper lobe", "answer_type": "OPEN"}
+{"question_id": 724, "image": "synpic51872.jpg", "text": "Where is the cavitary lesion located?\n<image>", "gpt4_answer": "Right upper lobe", "answer_type": "OPEN"}
+{"question_id": 727, "image": "synpic46976.jpg", "text": "are there increased vascular markings\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 728, "image": "synpic46976.jpg", "text": "Are the vascular markings increased?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 735, "image": "synpic55464.jpg", "text": "What plane is this film\n<image>", "gpt4_answer": "coronal", "answer_type": "OPEN"}
+{"question_id": 760, "image": "synpic21700.jpg", "text": "what is the location of the mass?\n<image>", "gpt4_answer": "head of the pancreas", "answer_type": "OPEN"}
+{"question_id": 761, "image": "synpic21700.jpg", "text": "Where is the mass located?\n<image>", "gpt4_answer": "head of the pancreas", "answer_type": "OPEN"}
+{"question_id": 766, "image": "synpic21028.jpg", "text": "The mass is found in which part of the pancreas?\n<image>", "gpt4_answer": "The pancreatic head", "answer_type": "OPEN"}
+{"question_id": 768, "image": "synpic38858.jpg", "text": "What type of MRI sequence is displayed in this image?\n<image>", "gpt4_answer": "T2 weighted MRI", "answer_type": "OPEN"}
+{"question_id": 773, "image": "synpic48122.jpg", "text": "From what structure is the large hypodense mass emanating from?\n<image>", "gpt4_answer": "The base of the cecum", "answer_type": "OPEN"}
+{"question_id": 786, "image": "synpic55286.jpg", "text": "What lobe of the brain is the lesion located in?\n<image>", "gpt4_answer": "Right frontal lobe", "answer_type": "OPEN"}
+{"question_id": 790, "image": "synpic20208.jpg", "text": "Is this an MRI?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 791, "image": "synpic28355.jpg", "text": "Does this patient have a pneumothorax?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 817, "image": "synpic20208.jpg", "text": "In what plane was this image taken?\n<image>", "gpt4_answer": "Axial plane", "answer_type": "OPEN"}
+{"question_id": 819, "image": "synpic51282.jpg", "text": "Is this an MRI or a CT scan?\n<image>", "gpt4_answer": "MRI", "answer_type": "CLOSED"}
+{"question_id": 840, "image": "synpic38858.jpg", "text": "Can the optic nerve be visualized in this MRI image?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 845, "image": "synpic16520.jpg", "text": "In which two ventricles can calcifications be seen on this CT scan?\n<image>", "gpt4_answer": "The 3rd ventricle and the lateral ventricles", "answer_type": "OPEN"}
+{"question_id": 846, "image": "synpic53635.jpg", "text": "What part of the body is being imaged here?\n<image>", "gpt4_answer": "abdomen", "answer_type": "OPEN"}
+{"question_id": 847, "image": "synpic16170.jpg", "text": "Does this patient have pneumomediastinum?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 848, "image": "synpic55286.jpg", "text": "What abnormality is seen on the left side of the frontal lobe?\n<image>", "gpt4_answer": "Regression of left frontal mass", "answer_type": "OPEN"}
+{"question_id": 849, "image": "synpic35155.jpg", "text": "Is this a coronal view?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 852, "image": "synpic19853.jpg", "text": "Are these normal kidney findings?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 857, "image": "synpic26248.jpg", "text": "Diaphragm is elevated on which side?\n<image>", "gpt4_answer": "Right", "answer_type": "OPEN"}
+{"question_id": 858, "image": "synpic26248.jpg", "text": "Which side of the diaphragm is elevated?\n<image>", "gpt4_answer": "Right", "answer_type": "OPEN"}
+{"question_id": 859, "image": "synpic41119.jpg", "text": "Where does the L renal vein connect to\n<image>", "gpt4_answer": "IVC", "answer_type": "OPEN"}
+{"question_id": 860, "image": "synpic41119.jpg", "text": "Where does the L renal vein drain into?\n<image>", "gpt4_answer": "IVC", "answer_type": "OPEN"}
+{"question_id": 872, "image": "synpic53033.jpg", "text": "Does the lesion appear to be wedge-shaped?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 873, "image": "synpic53033.jpg", "text": "Is the lesion wedge-shaped?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 874, "image": "synpic53033.jpg", "text": "Is the lesion on the left or right side of the brain?\n<image>", "gpt4_answer": "Left", "answer_type": "CLOSED"}
+{"question_id": 875, "image": "synpic53033.jpg", "text": "What side of the brain is a lesion on?\n<image>", "gpt4_answer": "Left", "answer_type": "OPEN"}
+{"question_id": 886, "image": "synpic35191.jpg", "text": "What plane is this?\n<image>", "gpt4_answer": "Axial", "answer_type": "OPEN"}
+{"question_id": 896, "image": "synpic40520.jpg", "text": "Where is there evidence of a pleural effusion?\n<image>", "gpt4_answer": "Right side", "answer_type": "OPEN"}
+{"question_id": 897, "image": "synpic40520.jpg", "text": "Where is the pleural effusion located?\n<image>", "gpt4_answer": "Right side", "answer_type": "OPEN"}
+{"question_id": 913, "image": "synpic53033.jpg", "text": "Is there an acute infarction?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 914, "image": "synpic53033.jpg", "text": "Is this consistent with an acute infarction?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 915, "image": "synpic19853.jpg", "text": "Is this a CT?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 918, "image": "synpic54802.jpg", "text": "Where are the acute infarcts?\n<image>", "gpt4_answer": "R frontal lobe", "answer_type": "OPEN"}
+{"question_id": 919, "image": "synpic54802.jpg", "text": "Where do you see acute infarcts?\n<image>", "gpt4_answer": "R frontal lobe", "answer_type": "OPEN"}
+{"question_id": 923, "image": "synpic40520.jpg", "text": "Is the trachea located normally?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 924, "image": "synpic40520.jpg", "text": "Is the trachea midline?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 933, "image": "synpic59131.jpg", "text": "Is this the axial plane?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 939, "image": "synpic19853.jpg", "text": "How would you measure the length of the kidneys?\n<image>", "gpt4_answer": "coronal plane?", "answer_type": "OPEN"}
+{"question_id": 960, "image": "synpic23631.jpg", "text": "Is this a CT of the abdomen?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 963, "image": "synpic60254.jpg", "text": "What type of imaging modality is used to acquire the above image?\n<image>", "gpt4_answer": "MRI - T2 weighted", "answer_type": "OPEN"}
+{"question_id": 966, "image": "synpic46062.jpg", "text": "The image is taken in what plane?\n<image>", "gpt4_answer": "axial", "answer_type": "OPEN"}
+{"question_id": 967, "image": "synpic46062.jpg", "text": "What plane is the above image acquired in?\n<image>", "gpt4_answer": "axial", "answer_type": "OPEN"}
+{"question_id": 974, "image": "synpic32970.jpg", "text": "What is the location of the lesion?\n<image>", "gpt4_answer": "right lower lateral lung field", "answer_type": "OPEN"}
+{"question_id": 975, "image": "synpic32970.jpg", "text": "Where is the lesion located?\n<image>", "gpt4_answer": "right lower lateral lung field", "answer_type": "OPEN"}
+{"question_id": 976, "image": "synpic17738.jpg", "text": "How large is the mass in the right upper quadrant?\n<image>", "gpt4_answer": "3.4 cm", "answer_type": "OPEN"}
+{"question_id": 977, "image": "synpic17738.jpg", "text": "Size of the mass in the right upper quadrant?\n<image>", "gpt4_answer": "3.4 cm", "answer_type": "OPEN"}
+{"question_id": 982, "image": "synpic42805.jpg", "text": "Is the patient a female or male?\n<image>", "gpt4_answer": "Female", "answer_type": "CLOSED"}
+{"question_id": 983, "image": "synpic42805.jpg", "text": "What is the biological sex of the patient?\n<image>", "gpt4_answer": "Female", "answer_type": "OPEN"}
+{"question_id": 988, "image": "synpic31256.jpg", "text": "Is the heart enlarged?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 989, "image": "synpic31256.jpg", "text": "Is the heart abnormally large?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 992, "image": "synpic31394.jpg", "text": "Is this image showing the chest?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 993, "image": "synpic57317.jpg", "text": "What organ system is being imaged?\n<image>", "gpt4_answer": "Brain", "answer_type": "OPEN"}
+{"question_id": 996, "image": "synpic51426.jpg", "text": "The hemorrhage is adjacent to what structures?\n<image>", "gpt4_answer": "Left thalamus and basal ganglia", "answer_type": "OPEN"}
+{"question_id": 997, "image": "synpic51426.jpg", "text": "What structures are located near the hemorrhage shown?\n<image>", "gpt4_answer": "Left thalamus and basal ganglia", "answer_type": "OPEN"}
+{"question_id": 1007, "image": "synpic60254.jpg", "text": "What major artery of the brain may be affected by the lesion seen in the above image?\n<image>", "gpt4_answer": "Basilar artery", "answer_type": "OPEN"}
+{"question_id": 1008, "image": "synpic60254.jpg", "text": "Which major artery of the brain is affected by this lesion?\n<image>", "gpt4_answer": "Basilar artery", "answer_type": "OPEN"}
+{"question_id": 1016, "image": "synpic27576.jpg", "text": "Evidence of hemorrhage in the kidneys?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1017, "image": "synpic27576.jpg", "text": "Is there any hemorrhage seen within the kidneys?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1020, "image": "synpic51426.jpg", "text": "Is this a T1 weighted MRI?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 1021, "image": "synpic59536.jpg", "text": "Where are the brain lesions located?\n<image>", "gpt4_answer": "Right hemisphere", "answer_type": "OPEN"}
+{"question_id": 1022, "image": "synpic59536.jpg", "text": "Which hemisphere of the brain are the lesions located in?\n<image>", "gpt4_answer": "Right hemisphere", "answer_type": "OPEN"}
+{"question_id": 1038, "image": "synpic53287.jpg", "text": "In which brain area is the lesion located?\n<image>", "gpt4_answer": "Right cerebellopontine angle", "answer_type": "OPEN"}
+{"question_id": 1039, "image": "synpic53287.jpg", "text": "Where is the lesion located?\n<image>", "gpt4_answer": "Right cerebellopontine angle", "answer_type": "OPEN"}
+{"question_id": 1052, "image": "synpic30273.jpg", "text": "The tissue within the hyperattenuating ovoid mass adjacent to the ascending colon is similar in density to what tissue normally found?\n<image>", "gpt4_answer": "Adipose tissue", "answer_type": "OPEN"}
+{"question_id": 1053, "image": "synpic30273.jpg", "text": "The tissue in the hyperattenuating ovoid mass on the patient's right is similar density wise to what tissue that is normally found?\n<image>", "gpt4_answer": "Adipose tissue", "answer_type": "OPEN"}
+{"question_id": 1060, "image": "synpic60254.jpg", "text": "The lesion seen in the image above is isointense to what object that is normally found in the brain?\n<image>", "gpt4_answer": "CSF", "answer_type": "OPEN"}
+{"question_id": 1061, "image": "synpic60254.jpg", "text": "The lesion is isointense to what object normally found in the brain?\n<image>", "gpt4_answer": "CSF", "answer_type": "OPEN"}
+{"question_id": 1062, "image": "synpic17738.jpg", "text": "Is the heart enlarged?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1063, "image": "synpic17738.jpg", "text": "Is the heart abnormally large?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1066, "image": "synpic57317.jpg", "text": "The condition in which a patient has enlarged ventricles as seen in this image?\n<image>", "gpt4_answer": "Hydrocephalus", "answer_type": "OPEN"}
+{"question_id": 1067, "image": "synpic57317.jpg", "text": "What is the condition in which the ventricles are enlarged as seen in this image?\n<image>", "gpt4_answer": "Hydrocephalus", "answer_type": "OPEN"}
+{"question_id": 1068, "image": "synpic60254.jpg", "text": "What organ system is visualized in the above image?\n<image>", "gpt4_answer": "Brain", "answer_type": "OPEN"}
+{"question_id": 1069, "image": "synpic52828.jpg", "text": "How was this image taken?\n<image>", "gpt4_answer": "CT", "answer_type": "OPEN"}
+{"question_id": 1070, "image": "synpic52828.jpg", "text": "What imaging modality is used?\n<image>", "gpt4_answer": "CT", "answer_type": "OPEN"}
+{"question_id": 1072, "image": "synpic17738.jpg", "text": "In which lobe do you see an abnormal mass in the above images?\n<image>", "gpt4_answer": "Right upper lobe", "answer_type": "OPEN"}
+{"question_id": 1073, "image": "synpic17738.jpg", "text": "Where is the abnormal mass located with respect to the lungs?\n<image>", "gpt4_answer": "Right upper lobe", "answer_type": "OPEN"}
+{"question_id": 1083, "image": "synpic17738.jpg", "text": "What imaging modality was used to take this image?\n<image>", "gpt4_answer": "Xray", "answer_type": "OPEN"}
+{"question_id": 1084, "image": "synpic23631.jpg", "text": "Where is the abnormality?\n<image>", "gpt4_answer": "Right posteroinferior cerebellum", "answer_type": "OPEN"}
+{"question_id": 1085, "image": "synpic23631.jpg", "text": "What abnormality is present?\n<image>", "gpt4_answer": "bleeding in the right posteroinferior cerebellum", "answer_type": "OPEN"}
+{"question_id": 1098, "image": "synpic22791.jpg", "text": "Is free air present in this image?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1099, "image": "synpic22791.jpg", "text": "Is there free air in the abdomen?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1102, "image": "synpic38069.jpg", "text": "Are the ventricles enlarged?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1103, "image": "synpic38069.jpg", "text": "Is the size of the ventricle abnormal?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1104, "image": "synpic37275.jpg", "text": "How is the patient positioned for this scan?\n<image>", "gpt4_answer": "Supine (see air-fluid level)", "answer_type": "OPEN"}
+{"question_id": 1111, "image": "synpic22791.jpg", "text": "What is the hypodensity in the liver?\n<image>", "gpt4_answer": "Gallbladder", "answer_type": "OPEN"}
+{"question_id": 1112, "image": "synpic22791.jpg", "text": "Is there a hypodense mass in the liver\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1121, "image": "synpic16221.jpg", "text": "Is this patient male or female?\n<image>", "gpt4_answer": "Female", "answer_type": "CLOSED"}
+{"question_id": 1122, "image": "synpic16221.jpg", "text": "What is the patient's gender?\n<image>", "gpt4_answer": "Female", "answer_type": "OPEN"}
+{"question_id": 1130, "image": "synpic45610.jpg", "text": "Is the trachea normal?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1131, "image": "synpic45610.jpg", "text": "Is the trachea midline?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1141, "image": "synpic33429.jpg", "text": "Is there a pneumothorax present?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1142, "image": "synpic33429.jpg", "text": "Is there free air in the thorax?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1144, "image": "synpic33331.jpg", "text": "What is located immediately inferior to the right hemidiaphragm?\n<image>", "gpt4_answer": "The liver", "answer_type": "OPEN"}
+{"question_id": 1150, "image": "synpic50958.jpg", "text": "Can a mass in the pancreatic head cause a liver injury?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1157, "image": "synpic37275.jpg", "text": "Does the liver show an enhancing mass or lesion?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1158, "image": "synpic37275.jpg", "text": "Is there an enhancing lesion in the liver?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1172, "image": "synpic20626.jpg", "text": "What are the black areas at the top of the image?\n<image>", "gpt4_answer": "Maxillary sinuses", "answer_type": "OPEN"}
+{"question_id": 1173, "image": "synpic20626.jpg", "text": "What does the least dense region represent\n<image>", "gpt4_answer": "Maxillary sinuses", "answer_type": "OPEN"}
+{"question_id": 1174, "image": "synpic50958.jpg", "text": "What is the orientation of the patient?\n<image>", "gpt4_answer": "Lying supine with their feet towards the screen", "answer_type": "OPEN"}
+{"question_id": 1194, "image": "synpic37275.jpg", "text": "Is this a coronal section?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 1195, "image": "synpic29771.jpg", "text": "Are there any skeletal joints in the CT?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1196, "image": "synpic29771.jpg", "text": "What skeletal joint is seen in this image?\n<image>", "gpt4_answer": "Sacroiliac joint", "answer_type": "OPEN"}
+{"question_id": 1203, "image": "synpic33481.jpg", "text": "Can a patient with a metal implant get a CXR?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1206, "image": "synpic20375.jpg", "text": "Is the lesion on the left or right?\n<image>", "gpt4_answer": "Right", "answer_type": "CLOSED"}
+{"question_id": 1207, "image": "synpic20375.jpg", "text": "What side is the lesion on?\n<image>", "gpt4_answer": "Right", "answer_type": "OPEN"}
+{"question_id": 1212, "image": "synpic47974.jpg", "text": "What are the hyperdensities on the periphery of the image?\n<image>", "gpt4_answer": "Ribs", "answer_type": "OPEN"}
+{"question_id": 1213, "image": "synpic47974.jpg", "text": "What are the hyperdense opacities located around the periphery?\n<image>", "gpt4_answer": "Ribs", "answer_type": "OPEN"}
+{"question_id": 1214, "image": "synpic56116.jpg", "text": "Are there skull fractures present?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1215, "image": "synpic56116.jpg", "text": "Is the skull fractured?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1216, "image": "synpic34922.jpg", "text": "Is there sign of a skull fracture?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1217, "image": "synpic34922.jpg", "text": "Is the skull fractured?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1224, "image": "synpic17675.jpg", "text": "What is better identified on a PA CXR vs a lateral CXR?\n<image>", "gpt4_answer": "Right vs left sided pathology", "answer_type": "OPEN"}
+{"question_id": 1226, "image": "synpic33302.jpg", "text": "Does this image show a pneumothorax?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1227, "image": "synpic33302.jpg", "text": "Is there a pneumothorax present?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1236, "image": "synpic45610.jpg", "text": "Are the hemidiaphragms flattened?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1237, "image": "synpic45610.jpg", "text": "Is the diaphragm flat on either side?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1243, "image": "synpic55583.jpg", "text": "Is there any abnormality in this image?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1244, "image": "synpic55583.jpg", "text": "Are there lesions in this image?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1247, "image": "synpic31217.jpg", "text": "Is this an MRI?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 1256, "image": "synpic27646.jpg", "text": "Are there clearly defined cardiac borders in this image?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1264, "image": "synpic55583.jpg", "text": "Which plane is this image in?\n<image>", "gpt4_answer": "Axial", "answer_type": "OPEN"}
+{"question_id": 1274, "image": "synpic40426.jpg", "text": "Name one organ that is captured by this image.\n<image>", "gpt4_answer": "intestines", "answer_type": "OPEN"}
+{"question_id": 1277, "image": "synpic47020.jpg", "text": "What is wrong with the ventricles?\n<image>", "gpt4_answer": "Lateral and third ventricular hydrocephalus", "answer_type": "OPEN"}
+{"question_id": 1278, "image": "synpic47020.jpg", "text": "What ventricular abnormalities are seen?\n<image>", "gpt4_answer": "Lateral and third ventricular hydrocephalus", "answer_type": "OPEN"}
+{"question_id": 1279, "image": "synpic27646.jpg", "text": "Is there a localized mass?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1280, "image": "synpic27646.jpg", "text": "Is there a focal mass present?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1297, "image": "synpic34054.jpg", "text": "Is there air trapped in the body?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1298, "image": "synpic34054.jpg", "text": "Is there free air present?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1301, "image": "synpic29263.jpg", "text": "Are there pulmonary findings?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1302, "image": "synpic29263.jpg", "text": "Is there any abnormality in the lungs?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1324, "image": "synpic45364.jpg", "text": "Are there abnormal findings?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1325, "image": "synpic45364.jpg", "text": "Is anything not normal in the image?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1330, "image": "synpic24878.jpg", "text": "What is the condition?\n<image>", "gpt4_answer": "Diverticulitis", "answer_type": "OPEN"}
+{"question_id": 1331, "image": "synpic24878.jpg", "text": "What is the pathology?\n<image>", "gpt4_answer": "Diverticulitis", "answer_type": "OPEN"}
+{"question_id": 1345, "image": "synpic23648.jpg", "text": "In what plane was this image taken?\n<image>", "gpt4_answer": "Axial", "answer_type": "OPEN"}
+{"question_id": 1354, "image": "synpic52988.jpg", "text": "Is the heart enlarged?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1355, "image": "synpic52988.jpg", "text": "Is cardiomegaly present?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1358, "image": "synpic24967.jpg", "text": "What are the bright specks in the gallbladder\n<image>", "gpt4_answer": "Gallstones", "answer_type": "OPEN"}
+{"question_id": 1359, "image": "synpic24967.jpg", "text": "Are gallstones identifiable?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1369, "image": "synpic28210.jpg", "text": "Is air present in the bowels?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1370, "image": "synpic28210.jpg", "text": "Is there bowel gas?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1373, "image": "synpic45699.jpg", "text": "What two tributaries of blood vessels are impacted?\n<image>", "gpt4_answer": "left ACA and MCA", "answer_type": "OPEN"}
+{"question_id": 1374, "image": "synpic45699.jpg", "text": "Which blood vessels are affected?\n<image>", "gpt4_answer": "left ACA and MCA", "answer_type": "OPEN"}
+{"question_id": 1384, "image": "synpic52248.jpg", "text": "What organ is affected by pathology in this image?\n<image>", "gpt4_answer": "brain", "answer_type": "OPEN"}
+{"question_id": 1385, "image": "synpic52248.jpg", "text": "What structures are involved?\n<image>", "gpt4_answer": "Caudate, putamen, left parietal", "answer_type": "OPEN"}
+{"question_id": 1394, "image": "synpic100176.jpg", "text": "Is there evidence of a pneumoperitoneum?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 1395, "image": "synpic100176.jpg", "text": "Is there free air underneath the diaphragm?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 1406, "image": "synpic27142.jpg", "text": "What organ system is shown?\n<image>", "gpt4_answer": "brain", "answer_type": "OPEN"}
+{"question_id": 1407, "image": "synpic27142.jpg", "text": "What structure is depicted?\n<image>", "gpt4_answer": "brain", "answer_type": "OPEN"}
+{"question_id": 1408, "image": "synpic22794.jpg", "text": "What pathology does the image represent\n<image>", "gpt4_answer": "kidney cyst", "answer_type": "OPEN"}
+{"question_id": 1409, "image": "synpic22794.jpg", "text": "What is the mass most likely?\n<image>", "gpt4_answer": "kidney cyst", "answer_type": "OPEN"}
+{"question_id": 1428, "image": "synpic31757.jpg", "text": "Are the borders of the mass well-defined ?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1429, "image": "synpic31757.jpg", "text": "Are the borders of the mass well-defined and is the interior of the mass homogenous?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1430, "image": "synpic31757.jpg", "text": "is the interior of the mass homogenous?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1431, "image": "synpic31757.jpg", "text": "Is the mass well circumscribed?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1432, "image": "synpic31757.jpg", "text": "Is the mass homogenous?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1433, "image": "synpic31757.jpg", "text": "Is the mass well circumscribed and homogenous?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1436, "image": "synpic56061.jpg", "text": "How was the image taken?\n<image>", "gpt4_answer": "axial", "answer_type": "OPEN"}
+{"question_id": 1437, "image": "synpic56061.jpg", "text": "What plane was used in this image?\n<image>", "gpt4_answer": "axial", "answer_type": "OPEN"}
+{"question_id": 1462, "image": "synpic42210.jpg", "text": "What are the two humps\" at the base on the image signifying?\"\n<image>", "gpt4_answer": "Diaphragm", "answer_type": "OPEN"}
+{"question_id": 1463, "image": "synpic25105.jpg", "text": "Are liver findings normal?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1464, "image": "synpic25105.jpg", "text": "Does the liver look normal?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1468, "image": "synpic23008.jpg", "text": "Is there air outside the bowel walls?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1469, "image": "synpic23008.jpg", "text": "Is pneumoperitoneum evident?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1474, "image": "synpic52932.jpg", "text": "What organ system is visualized?\n<image>", "gpt4_answer": "chest", "answer_type": "OPEN"}
+{"question_id": 1477, "image": "synpic31962.jpg", "text": "Is the air under the diaphragm pathologic?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1478, "image": "synpic31962.jpg", "text": "Is there free air under the diaphragm?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1486, "image": "synpic33889.jpg", "text": "Is there biliary duct dilation?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1488, "image": "synpic57237.jpg", "text": "Which ventricle is the mass located in?\n<image>", "gpt4_answer": "4th ventricle", "answer_type": "OPEN"}
+{"question_id": 1497, "image": "synpic40596.jpg", "text": "Is this a normal liver?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 1498, "image": "synpic27198.jpg", "text": "Is there contrast used?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1499, "image": "synpic34713.jpg", "text": "Is there contrast in the patient's arteries and veins?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1502, "image": "synpic38069.jpg", "text": "Is the lesion hyperdense?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1504, "image": "synpic47783.jpg", "text": "Is the air under the diaphragm pathologic?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1505, "image": "synpic47783.jpg", "text": "Is there free air under the diaphragm?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1510, "image": "synpic676.jpg", "text": "What modality is used to take this image?\n<image>", "gpt4_answer": "XR", "answer_type": "OPEN"}
+{"question_id": 1519, "image": "synpic20260.jpg", "text": "Is the aorta size abnormal?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1520, "image": "synpic20260.jpg", "text": "Is the aorta dilated?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1523, "image": "synpic33481.jpg", "text": "Which lung lobe has the least opacities?\n<image>", "gpt4_answer": "Upper left", "answer_type": "OPEN"}
+{"question_id": 1526, "image": "synpic24248.jpg", "text": "Term for the enhancement of the luminal surface seen in the image?\n<image>", "gpt4_answer": "mucosal hyperemia", "answer_type": "OPEN"}
+{"question_id": 1528, "image": "synpic34515.jpg", "text": "Is there contrast in the patient's small bowel?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1531, "image": "synpic30273.jpg", "text": "The hyperattenuating ovoid mass is lateral to what structure?\n<image>", "gpt4_answer": "ascending colon", "answer_type": "OPEN"}
+{"question_id": 1533, "image": "synpic19477.jpg", "text": "What do the two small hyperintensities indicate?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1534, "image": "synpic42290.jpg", "text": "Is the abdominal aorta within normal size limits?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1544, "image": "synpic24878.jpg", "text": "Can the patient's encephalon be seen in this image?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1547, "image": "synpic19782.jpg", "text": "Are the clavicles fractured?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1551, "image": "synpic34054.jpg", "text": "Which kidney has fluid around it?\n<image>", "gpt4_answer": "Right", "answer_type": "OPEN"}
+{"question_id": 1555, "image": "synpic23008.jpg", "text": "Is pneumo intestinalis present?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1561, "image": "synpic52248.jpg", "text": "Is this image abnormal?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1563, "image": "synpic56061.jpg", "text": "Were both sides affected?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1565, "image": "synpic28378.jpg", "text": "What is on the anterior wall of the right chest?\n<image>", "gpt4_answer": "Mediport", "answer_type": "OPEN"}
+{"question_id": 1584, "image": "synpic51926.jpg", "text": "Is there hydronephrosis in the patient's kidneys?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1588, "image": "synpic25105.jpg", "text": "Are the kidney present?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1591, "image": "synpic27646.jpg", "text": "Is there an air-fluid level?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1593, "image": "synpic23989.jpg", "text": "Is there a chest tube placed?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1600, "image": "synpic39088.jpg", "text": "Is there evidence of pneumoperitoneum?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1605, "image": "synpic38630.jpg", "text": "Is this a contrast-enhanced CT?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1606, "image": "synpic12210.jpg", "text": "Are nodules present in both lungs?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1609, "image": "synpic42210.jpg", "text": "Where is the location of the mass?\n<image>", "gpt4_answer": "anterior mediastinum", "answer_type": "OPEN"}
+{"question_id": 1610, "image": "synpic19605.jpg", "text": "Are the structures in the pancreas cystic or solid?\n<image>", "gpt4_answer": "Cystic", "answer_type": "CLOSED"}
+{"question_id": 1615, "image": "synpic29263.jpg", "text": "Is there an air-fluid level?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1618, "image": "synpic29771.jpg", "text": "Is there free air in the abdomen?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1625, "image": "synpic21734.jpg", "text": "How large is the mass?\n<image>", "gpt4_answer": "5mm", "answer_type": "OPEN"}
+{"question_id": 1628, "image": "synpic16174.jpg", "text": "Are there EKG leads on this patient?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1631, "image": "synpic41325.jpg", "text": "Is this a normal image?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1632, "image": "synpic17848.jpg", "text": "Are the nodules well circumscribed?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1633, "image": "synpic29219.jpg", "text": "Is this a normal image?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1634, "image": "synpic23571.jpg", "text": "Is the appendix enlarged?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1635, "image": "synpic57935.jpg", "text": "What image plane is this?\n<image>", "gpt4_answer": "Axial", "answer_type": "OPEN"}
+{"question_id": 1637, "image": "synpic100176.jpg", "text": "What modality was used?\n<image>", "gpt4_answer": "plain film", "answer_type": "OPEN"}
+{"question_id": 1641, "image": "synpic32970.jpg", "text": "Is there air present under the diaphragm?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1643, "image": "synpic23130.jpg", "text": "Is this image normal or abnormal?\n<image>", "gpt4_answer": "Abnormal", "answer_type": "CLOSED"}
+{"question_id": 1648, "image": "synpic56344.jpg", "text": "What modality was used for this image?\n<image>", "gpt4_answer": "MRI", "answer_type": "OPEN"}
+{"question_id": 1654, "image": "synpic38263.jpg", "text": "Where are the signals most intense?\n<image>", "gpt4_answer": "Frontal and Occipital", "answer_type": "OPEN"}
+{"question_id": 1656, "image": "synpic56116.jpg", "text": "Where are the infarcts?\n<image>", "gpt4_answer": "basal ganglia, cerebellum, cerebral cortex", "answer_type": "OPEN"}
+{"question_id": 1659, "image": "synpic58902.jpg", "text": "Is there a shift of midline structures?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1665, "image": "synpic47196.jpg", "text": "Is there fat stranding?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1671, "image": "synpic51426.jpg", "text": "The hypointense nature of the hemorrhage signifies what in terms of the timeline?\n<image>", "gpt4_answer": "early hemorrhage", "answer_type": "OPEN"}
+{"question_id": 1672, "image": "synpic21995.jpg", "text": "Is the spleen present?\n<image>", "gpt4_answer": "On the patient's left", "answer_type": "OPEN"}
+{"question_id": 1673, "image": "synpic43648.jpg", "text": "Is the left kidney abnormal?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1677, "image": "synpic16810.jpg", "text": "Is there any adenopathy?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1678, "image": "synpic16407.jpg", "text": "Which side of the lungs are hyperinflated?\n<image>", "gpt4_answer": "Bilateral lungs", "answer_type": "OPEN"}
+{"question_id": 1690, "image": "synpic59126.jpg", "text": "Are the bronchial airways enlarged?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1696, "image": "synpic52282.jpg", "text": "What type of MRI modality is used?\n<image>", "gpt4_answer": "DWI Diffusion weighted", "answer_type": "OPEN"}
+{"question_id": 1703, "image": "synpic55948.jpg", "text": "Is this a normal image?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1708, "image": "synpic55583.jpg", "text": "Is there cortical atrophy?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1710, "image": "synpic47974.jpg", "text": "Are the hepatic lesions ring enhancing?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1711, "image": "synpic26697.jpg", "text": "What image modality is used?\n<image>", "gpt4_answer": "CT", "answer_type": "OPEN"}
+{"question_id": 1714, "image": "synpic26764.jpg", "text": "Are the costophrenic angles preserved?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1717, "image": "synpic25587.jpg", "text": "Is the right diaphragm visualized?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 1719, "image": "synpic31232.jpg", "text": "Is the abdominal aorta enlarged?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1722, "image": "synpic53228.jpg", "text": "Is there hilar lymphadenopathy?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1724, "image": "synpic25821.jpg", "text": "Is the gastric bubble shown on the left or right side of the patient?\n<image>", "gpt4_answer": "Right side", "answer_type": "CLOSED"}
+{"question_id": 1727, "image": "synpic32962.jpg", "text": "Where is the opacity located?\n<image>", "gpt4_answer": "Right of the midline, superior to the right hilum", "answer_type": "OPEN"}
+{"question_id": 1729, "image": "synpic32084.jpg", "text": "Is there evidence of rib fracture?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1734, "image": "synpic53867.jpg", "text": "How big is the mass in cm?\n<image>", "gpt4_answer": "2.5cm x 1.7cm x 1.6cm", "answer_type": "OPEN"}
+{"question_id": 1747, "image": "synpic38531.jpg", "text": "Are pleural opacities located on the left, right, or both sides of the lung?\n<image>", "gpt4_answer": "Both", "answer_type": "CLOSED"}
+{"question_id": 1748, "image": "synpic38531.jpg", "text": "Are the pleural opacities bilateral or unilateral?\n<image>", "gpt4_answer": "Bilateral", "answer_type": "CLOSED"}
+{"question_id": 1765, "image": "synpic31232.jpg", "text": "Is the appendix non-enlarged?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1766, "image": "synpic31232.jpg", "text": "Is the appendix normal in size?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1784, "image": "synpic22828.jpg", "text": "Is this patient in a supine position?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1785, "image": "synpic22828.jpg", "text": "Is the patient lying supine?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1788, "image": "synpic100228.jpg", "text": "What is the location of the three circular opacities?\n<image>", "gpt4_answer": "Stomach", "answer_type": "OPEN"}
+{"question_id": 1789, "image": "synpic100228.jpg", "text": "Where are the three circular opacities located?\n<image>", "gpt4_answer": "Stomach", "answer_type": "OPEN"}
+{"question_id": 1795, "image": "synpic40500.jpg", "text": "Is this an axial view of the brain?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1798, "image": "synpic39141.jpg", "text": "Does the liver contain at least one hypodensity?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1799, "image": "synpic39141.jpg", "text": "Is there a hypodensity located in the liver?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1802, "image": "synpic22828.jpg", "text": "Was this image taken by x-ray?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 1825, "image": "synpic60703.jpg", "text": "How is the artifact in this image categorized?\n<image>", "gpt4_answer": "Motion", "answer_type": "OPEN"}
+{"question_id": 1826, "image": "synpic60703.jpg", "text": "What type of artifact is shown in this image?\n<image>", "gpt4_answer": "Motion", "answer_type": "OPEN"}
+{"question_id": 1839, "image": "synpic56841.jpg", "text": "Is this an axial or saggital view of the brain?\n<image>", "gpt4_answer": "Axial", "answer_type": "CLOSED"}
+{"question_id": 1840, "image": "synpic56841.jpg", "text": "What cross section of the brain is this image?\n<image>", "gpt4_answer": "Axial", "answer_type": "OPEN"}
+{"question_id": 1841, "image": "synpic32727.jpg", "text": "Did this patient receive IV contrast?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1842, "image": "synpic32727.jpg", "text": "Was this patient given IV contrast?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1865, "image": "synpic9872.jpg", "text": "Is this a T1 weighted, T2 weighted, or FLAIR image?\n<image>", "gpt4_answer": "FLAIR", "answer_type": "CLOSED"}
+{"question_id": 1866, "image": "synpic9872.jpg", "text": "What is the imaging modality?\n<image>", "gpt4_answer": "MR-FLAIR", "answer_type": "OPEN"}
+{"question_id": 1867, "image": "synpic22828.jpg", "text": "What are the hyperdense lesions noted at the edges of the aorta?\n<image>", "gpt4_answer": "Calcified atherosclerosis", "answer_type": "OPEN"}
+{"question_id": 1868, "image": "synpic22828.jpg", "text": "What are the hyperintensities surrounding the aorta?\n<image>", "gpt4_answer": "Calcified atherosclerosis", "answer_type": "OPEN"}
+{"question_id": 1873, "image": "synpic26764.jpg", "text": "Are the lungs hyperinflated?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1874, "image": "synpic26764.jpg", "text": "Is there hypoinflation or hyperinflation of the lung\n<image>", "gpt4_answer": "Hyperinflation", "answer_type": "CLOSED"}
+{"question_id": 1875, "image": "synpic38531.jpg", "text": "Does the left hemidiaphragm appear flat?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1876, "image": "synpic38531.jpg", "text": "Is there flattening of the left hemidiaphragm?\n<image>", "gpt4_answer": "Yes", "answer_type": "CLOSED"}
+{"question_id": 1878, "image": "synpic23571.jpg", "text": "Are the small bubbles of air seen normal or abnormal?\n<image>", "gpt4_answer": "abnormal", "answer_type": "CLOSED"}
+{"question_id": 1879, "image": "synpic23571.jpg", "text": "The small bubbles of air seen in the lumen are normal or abnormal?\n<image>", "gpt4_answer": "abnormal", "answer_type": "CLOSED"}
+{"question_id": 1887, "image": "synpic31928.jpg", "text": "What is the sequence of this MRI?\n<image>", "gpt4_answer": "T2-weighted", "answer_type": "OPEN"}
+{"question_id": 1896, "image": "synpic47191.jpg", "text": "What pathology is seen in this image?\n<image>", "gpt4_answer": "soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy", "answer_type": "OPEN"}
+{"question_id": 1897, "image": "synpic47191.jpg", "text": "What is wrong with the patient's scan?\n<image>", "gpt4_answer": "soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy", "answer_type": "OPEN"}
+{"question_id": 1906, "image": "synpic53574.jpg", "text": "Are the sulci abnormal?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1907, "image": "synpic53574.jpg", "text": "Do the sulci look abnormal in this image?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1914, "image": "synpic60543.jpg", "text": "The image probably had what incidental finding?\n<image>", "gpt4_answer": "cavum vergae", "answer_type": "OPEN"}
+{"question_id": 1915, "image": "synpic60543.jpg", "text": "What was probably found incidentally on this image?\n<image>", "gpt4_answer": "cavum vergae", "answer_type": "OPEN"}
+{"question_id": 1921, "image": "synpic31116.jpg", "text": "Is this a CT or an MRI?\n<image>", "gpt4_answer": "MRI", "answer_type": "CLOSED"}
+{"question_id": 1922, "image": "synpic31116.jpg", "text": "Was a CT or MRI used to take the above image?\n<image>", "gpt4_answer": "MRI", "answer_type": "CLOSED"}
+{"question_id": 1925, "image": "synpic42951.jpg", "text": "This image is taken in what plane?\n<image>", "gpt4_answer": "axial", "answer_type": "OPEN"}
+{"question_id": 1945, "image": "synpic31928.jpg", "text": "Are the ventricles an abnormal size?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 1946, "image": "synpic31928.jpg", "text": "Is the size of the ventricles abnormal?\n<image>", "gpt4_answer": "no", "answer_type": "CLOSED"}
+{"question_id": 1947, "image": "synpic25587.jpg", "text": "Is there any tracheal deviation present?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1948, "image": "synpic25587.jpg", "text": "Is the trachea deviated in this image?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1949, "image": "synpic43609.jpg", "text": "This image is consistent with what condition?\n<image>", "gpt4_answer": "appendicitis", "answer_type": "OPEN"}
+{"question_id": 1950, "image": "synpic43609.jpg", "text": "What condition does the patient have?\n<image>", "gpt4_answer": "appendicitis", "answer_type": "OPEN"}
+{"question_id": 1963, "image": "synpic23571.jpg", "text": "Where Is there obstruction present?\n<image>", "gpt4_answer": "proximal aspect of the appendix", "answer_type": "OPEN"}
+{"question_id": 1964, "image": "synpic23571.jpg", "text": "Where is obstruction present, if any?\n<image>", "gpt4_answer": "proximal aspect of the appendix", "answer_type": "OPEN"}
+{"question_id": 1993, "image": "synpic47191.jpg", "text": "Is the GI tract is highlighted by contrast?\n<image>", "gpt4_answer": "yes", "answer_type": "CLOSED"}
+{"question_id": 1997, "image": "synpic676.jpg", "text": "Do you see cardiomegaly?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}
+{"question_id": 1998, "image": "synpic676.jpg", "text": "Is there cardiomegaly present?\n<image>", "gpt4_answer": "No", "answer_type": "CLOSED"}

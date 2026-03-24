@@ -1,0 +1,13 @@
+file	avg_comp	avg_hall
+llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-1338_mimic_inference.json	0.0997	0.1449
+llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-2676_mimic_inference.json	0.1063	0.1231
+llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-3345_mimic_inference.json	0.1073	0.119
+llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-669_mimic_inference.json	0.1281	0.1649
+llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-1338_mimic_inference.json	0.1916	0.3654
+llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-2676_mimic_inference.json	0.198	0.4084
+llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-3345_mimic_inference.json	0.1983	0.4098
+llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-669_mimic_inference.json	0.2041	0.3961
+llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-1338_mimic_inference.json	0.1031	0.1904
+llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-2676_mimic_inference.json	0.1022	0.1642
+llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-3345_mimic_inference.json	0.1002	0.1565
+llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-669_mimic_inference.json	0.1058	0.1948

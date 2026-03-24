@@ -1,0 +1,14 @@
+{
+    "llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-3345_amboss_inference_batch_input.jsonl": "batch_692f0efdc3188190b84c923e5e3163c3",
+    "llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-669_amboss_inference_batch_input.jsonl": "batch_692f0effda788190a70f0afcf1226f5c",
+    "llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-2676_amboss_inference_batch_input.jsonl": "batch_692f0f0289ec8190a302e4815d847f20",
+    "llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-3345_amboss_inference_batch_input.jsonl": "batch_692f0f0519bc8190ad9d151db763731a",
+    "llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-2676_amboss_inference_batch_input.jsonl": "batch_692f0f07ec348190be383fdf86ed5843",
+    "llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-1338_amboss_inference_batch_input.jsonl": "batch_692f0f09d5408190b236621c2db88812",
+    "llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-1338_amboss_inference_batch_input.jsonl": "batch_692f0f0bf47c81908325a8fef2395aa7",
+    "llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-669_amboss_inference_batch_input.jsonl": "batch_692f0f0e4f588190950027a4a1f33448",
+    "llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-669_amboss_inference_batch_input.jsonl": "batch_692f0f108c14819088f0f0c3eafd4655",
+    "llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-1338_amboss_inference_batch_input.jsonl": "batch_692f0f124b108190ae3e42103e205018",
+    "llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-3345_amboss_inference_batch_input.jsonl": "batch_692f0f14c04c8190b6f8c81badda6554",
+    "llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-2676_amboss_inference_batch_input.jsonl": "batch_692f0f172660819093624b1231a50770"
+}

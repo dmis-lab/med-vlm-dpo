@@ -1,0 +1,14 @@
+{
+    "llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-1338_mimic_inference_batch_input.jsonl": "batch_6933e854b1c4819091bbbf62b71c73f3",
+    "llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-3345_mimic_inference_batch_input.jsonl": "batch_6933e85aef308190af2abf9b506ebfc0",
+    "llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-1338_mimic_inference_batch_input.jsonl": "batch_6933e86155948190ae7e5c1cfebc449b",
+    "llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-1338_mimic_inference_batch_input.jsonl": "batch_6933e867696c8190a0e7888b966abf3d",
+    "llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-669_mimic_inference_batch_input.jsonl": "batch_6933e86dd9bc8190861283c9d0e5e6f5",
+    "llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-669_mimic_inference_batch_input.jsonl": "batch_6933e873a88c81909890f0cf24e17443",
+    "llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-2676_mimic_inference_batch_input.jsonl": "batch_6933e87a00c08190a50190128bcda302",
+    "llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-2676_mimic_inference_batch_input.jsonl": "batch_6933e8800e488190b31fcb4253acbde3",
+    "llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-3345_mimic_inference_batch_input.jsonl": "batch_6933e88650e48190b249cd43a3694d78",
+    "llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-2676_mimic_inference_batch_input.jsonl": "batch_6933e88c88c48190a2a7f7fd60ae51c2",
+    "llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-3345_mimic_inference_batch_input.jsonl": "batch_6933e892cc94819093af406665bcf8cf",
+    "llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-669_mimic_inference_batch_input.jsonl": "batch_6933e8998a208190871c761c76b5efaa"
+}

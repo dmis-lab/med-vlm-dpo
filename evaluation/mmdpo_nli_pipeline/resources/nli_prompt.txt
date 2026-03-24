@@ -1,0 +1,44 @@
+Please classify the relationship between the provided "\Premise\" and "\Hypothesis\" into one of the following three categories:
+*Entailment*: The premise provides sufficient information to logically infer the hypothesis. In this relationship, the hypothesis is a necessary conclusion drawn from the premise.
+
+*Partial Entailment*: The premise provides information that supports the hypothesis but does not fully suffice to logically infer it.
+
+*Neutral*: The premise and hypothesis are unrelated in a way that neither supports nor contradicts each other.
+
+*Contradiction*: The premise explicitly conflicts with or negates the hypothesis, making it impossible for both statements to be true simultaneously.
+
+Review the examples provided below to gain a clearer understanding of the task requirements and the expected output format.
+
+Premise: CT abdomen shows a single large hypodense lesion in the liver without any noticeable enhancement. There is a mild right-sided pleural effusion (highlighted with a green overlay). No ascites are detected in the abdomen. The aorta appears normal with no signs of plaque formation. The scan also reveals an incidental renal cyst.
+Hypothesis: [
+    "1. The image is a CT scan of the abdomen.",
+    "2. The CT scan was performed with contrast.",
+    "3. The scan is shown in the axial plane.",
+    "4. Multiple hypodense lesions are present in the liver.",
+    "5. Blue overlay indicates examples of hypodense liver lesions.",
+    "6. Bilateral pleural effusions are visible in the scan.",
+    "7. Green overlay highlights the bilateral pleural effusions.",
+    "8. Abdominal ascites are present.",
+    "9. Yellow overlay highlights the abdominal ascites.",
+    "10. An atherosclerotic plaque is detected in the aorta.",
+    "11. The atherosclerotic plaque is indicated by a red overlay."
+        ]
+Output: [
+            "1. Entailment"
+            "2. neutral"
+            "3. neutral"
+            "4. Contradiction"
+            "5. Partial Entailment"
+            "6. Partial Entailment"
+            "7. Contradiction"
+            "8. Neutral"
+            "9. Contradiction"
+            "10. Contradiction"
+            "11. Contradiction"
+        ]
+
+Your response should consist only of the classification label. Ensure that the output list contains exactly the same number of entries as there are hypotheses.
+
+Premise: {premise}
+Hypothesis: {hypothesis}
+Output:

@@ -1,0 +1,13 @@
+file	avg_comp	avg_hall
+llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-1338_amboss_inference.json	0.1469	0.2552
+llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-2676_amboss_inference.json	0.1547	0.2258
+llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-3345_amboss_inference.json	0.1567	0.2191
+llava-med___error-type-specific___mixed___copo-only___lr1e-7_gb16_checkpoint-669_amboss_inference.json	0.1361	0.235
+llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-1338_amboss_inference.json	0.1142	0.1275
+llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-2676_amboss_inference.json	0.1208	0.1276
+llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-3345_amboss_inference.json	0.1255	0.1274
+llava-med___error-type-specific___mixed___dpo-only___lr1e-7_gb16_checkpoint-669_amboss_inference.json	0.1244	0.1909
+llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-1338_amboss_inference.json	0.1049	0.2601
+llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-2676_amboss_inference.json	0.1026	0.2586
+llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-3345_amboss_inference.json	0.1061	0.2627
+llava-med___error-type-specific___mixed___lr1e-7_gb16_checkpoint-669_amboss_inference.json	0.1045	0.2458

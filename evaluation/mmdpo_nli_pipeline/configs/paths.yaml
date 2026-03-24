@@ -1,0 +1,49 @@
+# ================================
+# Pipeline Configuration
+# ================================
+
+# Dataset name: e.g., "amboss", "mimic"
+dataset: "amboss"
+
+# Backbone model name: e.g., "llava-med", "huatuo"
+backbone: "llava-med"
+
+# GPT model used for NLI evaluation
+model: "gpt-4.1"
+
+# OpenAI API key
+api:
+  key: ""
+
+paths:
+  # === Input Inference Results ===
+  # Directory containing the raw model inference .jsonl files.
+  # Each JSONL file must have one object per line with the following REQUIRED keys:
+  #   - id: unique identifier for each image/sample (string)
+  #   - caption_generated: the model's generated text response (string)
+  # Example (one line in JSONL):
+  #   {"id": "amboss_0001", "caption_generated": "There is an opacity..."}
+  inference_dir: "/data/jiwoo/mmdpo/data/1202_ours_longform/$dataset"
+
+  # === Atomic Facts produced by GPT-4 ===
+  # JSON or JSONL file. Each entry must include:
+  #   - id: should match inference JSONL's id
+  #   - atomic_facts: list of strings (Hypothesis set)
+  #   - gold_report or gold_caption: ground-truth text
+  #
+  # Example:
+  # {"id": "amboss_0001",
+  #  "atomic_facts": ["fact1", "fact2"],
+  #  "gold_report": "..."}
+  atomic_facts: "./resources/processed_gpt4_responses_$dataset.json"
+
+  # === Template for the GPT-4 NLI prompt ===
+  prompt_template: "./resources/nli_prompt.txt"
+
+  # === Batch input/output ===
+  batch_input_dir: "./batch_input/$backbone/$dataset"
+  batch_output_dir: "./batch_output/$backbone/$dataset"
+
+  # === Final merged GPT-4 NLI evaluation results ===
+  merged_output_dir: "./gpt4_eval_output/$backbone/$dataset"
+  nli_eval_dir: "./nli_eval_output/$backbone/$dataset"

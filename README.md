@@ -57,7 +57,7 @@ The scripts follow a unified naming convention:
 You can explore the expected structure and formatting of our training datasets by checking the sample files located in the following directory:
 
 ```bash
-./data/sample
+./data/benchmark_question_file
 
 ```
 
